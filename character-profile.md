@@ -1,8 +1,9 @@
 # Ficha de personaje
 
-## Contexto
+## Datos personales
 - **Nombre:** Oscar Yal
 - **Ilustración:** (pendiente)
+
 ### Historia
 Empezó físicas pero dejó la carrera para entrar a trabajar en un banco en un programa para hijos de empleados. En cuanto ahorra lo suficiente deja el banco y compra un local-garage para montar el estudio de tatuaje "Salamandra"
 
@@ -23,14 +24,14 @@ Cuando ninguno de los metaleros tatuadores mira, pone flamenquito ;)
 
 ## Habilidades // (100pts a repartir)
 ### Experto
-1. Dibujar: 85%
-2. Tatuar: 85%
-3. : 85%
+1. Dibujo: 85%
+2. Tatuaje: 85%
+3. Percepción: 85%
 ### Bueno
-1. : 50%
-2. : 50%
-3. : 50%
+1. Trato con animales: 50%
+2. Investigación: 50%
+3. Intimidación: 50%
 ### Regulero
-1. : 25%
-2. : 25%
-3. : 25%
+1. Historia: 25%
+2. Supervivencia: 25%
+3. Trato con la administración: 25%
