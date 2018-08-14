@@ -17,7 +17,8 @@ Cuando ninguno de los metaleros tatuadores mira, pone flamenquito ;)
 4. **Carisma:** 13   _(6 +7)_
 5. **Inteligencia:** 12   _(6 +6)_
 6. **Cultura:** 9   _(6 +3)_
-7. **Puntos de vida:** 10   _(4 +6)_
+***
+1. **Puntos de vida:** 10   _(4 +6)_
 
 ## Habilidades
 ### Experto
