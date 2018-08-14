@@ -11,9 +11,9 @@ Se le da bien trabajar con máquinas (no como programador sino más físicamente
 Cuando ninguno de los metaleros tatuadores mira, pone flamenquito ;)
 
 ## Características 1d6 (+30)
-1. **Fuerza:** 7 // 4 (+3)
-2. **Destreza:** 11 // 3 (+8)
-3. **Agilidad:** 7 // 2 (+5)
-4. **Carisma:** 12 // 6 (+6)
-5. **Inteligencia:** 11 // 6 (+5)
-6. **Cultura:** 9 // 6 (+3)
+1. **Fuerza:** 7   _(4 +3)_
+2. **Destreza:** 11   _(3 +8)_
+3. **Agilidad:** 7   _(2 +5)_
+4. **Carisma:** 12   _(6 +6)_
+5. **Inteligencia:** 11   _(6 +5)_
+6. **Cultura:** 9   _(6 +3)_
