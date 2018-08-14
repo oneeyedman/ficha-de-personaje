@@ -10,7 +10,7 @@ Empezó físicas pero dejó la carrera para entrar a trabajar en un banco en un 
 Se le da bien trabajar con máquinas (no como programador sino más físicamente, montar y desmontar, arreglarlas nivel bajo-medio).
 Cuando ninguno de los metaleros tatuadores mira, pone flamenquito ;)
 
-## Características 1d6 (+30)
+## Características  // 1d6 (+30 a repartir)
 1. **Fuerza:** 7   _(4 +3)_
 2. **Destreza:** 9   _(3 +6)_
 3. **Agilidad:** 7   _(2 +5)_
@@ -18,10 +18,10 @@ Cuando ninguno de los metaleros tatuadores mira, pone flamenquito ;)
 5. **Inteligencia:** 12   _(6 +6)_
 6. **Cultura:** 9   _(6 +3)_
 
-## Vida
+## Vida // 1d6 +6
 1. **Puntos de vida:** 10   _(4 +6)_
 
-## Habilidades
+## Habilidades // (100pts a repartir)
 ### Experto
 1. Dibujar: 85%
 2. Tatuar: 85%
