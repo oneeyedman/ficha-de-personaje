@@ -26,16 +26,17 @@ Cuando ninguno de los metaleros tatuadores mira, pone flamenquito ;)
 
 ### Experto
 
-1. **Dibujo:** 90% _(85% +5)_
-2. **Tatuaje:** 90% _(85% +5)_
+1. **Dibujo:** 85%
+2. **Tatuaje:** 85%
 3. **Percepción:** 90% _(85% +5)_
 
 ### Bueno
 1. **Trato con animales:** 70% _(50% +20)_
 2. **Investigación:** 75% _(50% +25)_
-3. **Intimidación:** 50%
+3. **Suerte:** 50%
+4. **Trato con máquinas (nivel manitas no programador)**: 30% (0 +30)
 
 ### Regulero
-1. **Historia:** 45% _(25% +20)_
+1. **Historia:** 25%
 2. **Supervivencia:** 45% _(25% +20)_
 3. **Trato con la administración:** 25%
