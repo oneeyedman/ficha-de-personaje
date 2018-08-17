@@ -4,8 +4,12 @@
 - **Nombre:** Oscar Yal
 - **Ilustración:** (pendiente)
 
+## Links
+- [Inventario](inventory.md)
+- [Notas](notes.md)
+
 ### Historia
-Empezó físicas pero dejó la carrera para entrar a trabajar en un banco en un programa para hijos de empleados. En cuanto ahorra lo suficiente deja el banco y compra un local-garage para montar el estudio de tatuaje "Salamandra"
+Empezó físicas pero dejó la carrera para entrar a trabajar en un banco en un programa para hijos de empleados. En cuanto ahorra lo suficiente deja el banco y compra un local-garage para montar el estudio de tatuaje "Salamandra".
 
 ### Aficiones
 Se le da bien trabajar con máquinas (no como programador sino más físicamente, montar y desmontar, arreglarlas nivel bajo-medio).
