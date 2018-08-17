@@ -1,14 +1,14 @@
 # Ficha de personaje
 
-## Datos personales
-- **Nombre:** Oscar Yal
-- **Ilustración:** (pendiente)
-
-## Links
+## TOC
 - [Características](#caracter%C3%ADsticas---1d6-30-a-repartir)
 - [Habilidades](#habilidades--100pts-a-repartir)
 - [Inventario](inventory.md)
 - [Notas](notes.md)
+
+## Datos personales
+- **Nombre:** Oscar Yal
+- **Ilustración:** (pendiente)
 
 ### Historia
 Empezó físicas pero dejó la carrera para entrar a trabajar en un banco en un programa para hijos de empleados. En cuanto ahorra lo suficiente deja el banco y compra un local-garage para montar el estudio de tatuaje "Salamandra".
