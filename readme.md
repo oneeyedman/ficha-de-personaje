@@ -5,6 +5,8 @@
 - **Ilustración:** (pendiente)
 
 ## Links
+- [Características](#caracter%C3%ADsticas---1d6-30-a-repartir)
+- [Habilidades](#habilidades--100pts-a-repartir)
 - [Inventario](inventory.md)
 - [Notas](notes.md)
 
