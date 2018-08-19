@@ -14,5 +14,7 @@
 - La contraseña del platanusb es `contraseña`
 - Una tal Tempus le habla a la agente Era (puede ser la pava que llevaba el maletín, la que asesinaron)
 - https://twitter.com/htmlboy/status/1031195977435230209  
-```Tempus da instrucciones de llevar los documentos a la base de CRONOS en Marte. Aparentemente, son documentos secretos del gobierno Otaku que están relacionados con “la exterminación de las debilidades humanas”. No lo deja muy claro, pero habla de un “Plan Eugenesis```
+  ```
+  Tempus da instrucciones de llevar los documentos a la base de CRONOS en Marte. Aparentemente, son documentos secretos del gobierno Otaku que están relacionados con “la exterminación de las debilidades humanas”. No lo deja muy claro, pero habla de un "Plan Eugenesis"
+  ```
 
