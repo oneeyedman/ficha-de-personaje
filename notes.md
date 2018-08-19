@@ -6,9 +6,9 @@
 
 ## 002: En casa de sus padres
 - Abrimos el maletín y contiene:
-  1. Un plátano USB
-  1. Una bola misteriosa
-  1. Un dibujo de [dos triángulos](https://www.quora.com/What-is-the-meaning-behind-the-double-triangle-symbol?redirected_qid=10128246)
+  - Un plátano USB
+  - Una bola misteriosa
+  - Un dibujo de [dos triángulos](https://www.quora.com/What-is-the-meaning-behind-the-double-triangle-symbol?redirected_qid=10128246)
   
 ## 003: En el museo
 - La contraseña del platanusb es `contraseña`
