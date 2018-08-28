@@ -26,7 +26,7 @@ Cuando ninguno de los metaleros tatuadores mira, pone flamenquito ;)
 6. **Cultura:** 9   _(6 +3)_
 
 ## Vida // 1d6 +6
-1. **Puntos de vida:** 10   _(4 +6)_
+1. **Puntos de vida:** 9   _(4 +6 -1)_
 
 ## Habilidades // (100pts a repartir)
 
