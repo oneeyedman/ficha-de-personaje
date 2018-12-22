@@ -25,7 +25,7 @@ Enamorado de las máquinas de escribir tradicionales dedica la mayor parte de su
 3. **Agilidad:** 8   _(6 + 2)_
 4. **Carisma:** 10   _(2 + 8)_
 5. **Inteligencia:** 8   _(1 + 7)_
-6. **Cultura:** 13   _(4sopulver + 9)_
+6. **Cultura:** 13   _(4 + 9)_
 
 ## Vida // 1d6 +6
 1. **Puntos de vida:** 8   _(2 +6)_
