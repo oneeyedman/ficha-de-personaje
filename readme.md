@@ -17,7 +17,7 @@ Enamorado de las máquinas de escribir tradicionales dedica la mayor parte de su
 
 ## Suerte
 
-* Dados de suerte: 1 _(2 - 1)
+* Dados de suerte: 1 _(2 - 1)_
 
 ## Características  // 1d6 (+30 a repartir)
 1. **Fuerza:** 5   _(3 + 2)_
