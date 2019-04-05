@@ -28,7 +28,7 @@ Enamorado de las máquinas de escribir tradicionales dedica la mayor parte de su
 6. **Cultura:** 13   _(4 + 9)_
 
 ## Vida // 1d6 +6
-1. **Puntos de vida:** 8   _(2 +6)_
+1. **Puntos de vida:** 2   _(2 +6 -6)_
 
 ## Habilidades // (100pts a repartir)
 
